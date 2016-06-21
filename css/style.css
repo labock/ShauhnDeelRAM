@@ -1,0 +1,10 @@
+body{
+	background-image: url("../images/ram.jpg");
+}
+div{
+	background-color: white;
+}
+p{
+	font-size: 250px;
+	margin: 0px;
+}
