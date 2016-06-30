@@ -1,5 +1,13 @@
+html{
+	background-image: url("../images/ram1.jpg");
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+ 	-o-background-size: cover;
+	background-size: cover;
+
+}
 body{
-	background-image: url("../images/ram.jpg");
+	
 }
 div{
 	background-color: white;
@@ -7,4 +15,11 @@ div{
 p{
 	font-size: 250px;
 	margin: 0px;
+}
+.name{
+	color: cyan;
+}
+
+.name-container{
+	background-color: black;
 }
